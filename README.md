@@ -3,7 +3,6 @@ Application Engineer | UI Developer | React | Hooks | javaScript | Python | Expr
 
 Skills: REACT / JS / HTML / CSS / Bootstrap
 
-🔭 I’m currently working on Frontend Development
 🌱 I’m currently learning FullStack Development with MERN Specialization
 👯 I’m looking to collaborate on React Js
 🤔 I’m looking for help with BackEnd
